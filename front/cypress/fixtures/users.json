@@ -1,0 +1,44 @@
+{
+  "candidates": [
+    {
+      "id": "5a273f0468adf47eb31fe812",
+      "name": "Anthony Warren",
+      "document": 10932311,
+      "cv_zonajobs": "",
+      "cv_bumeran": "http://www.bumeran.com.ar/empresas/postulaciones/cvDetailsNewTab?idPostulacion=10703887443&idCv=1034919007&idAviso=1112169304&mostrarSalarioPretendido=false",
+      "phone": "(456) 291-1901",
+      "email": "ninjati@em.io",
+      "date": " 2017-12-05 21:57:57.951000",
+      "age": 28,
+      "has_university": "Si",
+      "career": "Contador",
+      "graduated": "Sigo cursando",
+      "courses_approved": "3 a 7",
+      "location": "Gregorio de Laferrère, Buenos Aires Province, Argentina",
+      "accepts_working_hours": "Si",
+      "desired_salary": "10000",
+      "had_interview": "Si",
+      "reason": "Ya trabajó en PwC"
+    }
+  ],
+  "columns": {
+    "id": true,
+    "name": true,
+    "document": true,
+    "cv_zonajobs": true,
+    "cv_bumeran": false,
+    "phone": true,
+    "email": true,
+    "date": true,
+    "age": true,
+    "has_university": false,
+    "career": true,
+    "graduated": false,
+    "courses_approved": true,
+    "location": true,
+    "accepts_working_hours": false,
+    "desired_salary": true,
+    "had_interview": false,
+    "reason": true
+  }
+}
